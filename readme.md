@@ -8,8 +8,6 @@ An implementation of a **Deep Q-Network (DQN)** reinforcement learning agent bui
 
 ![Flappy Bird DQN Agent Demo](demo.gif)
 
-*(Note: Ensure your converted GIF is named `demo.gif` and placed in the root directory of your repository, or update the filename above to match your file.)*
-
 ---
 
 ## 🧠 Architecture & Methodology
